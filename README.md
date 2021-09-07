@@ -107,6 +107,24 @@ for ( i = 0; i < 100; i++ ) {
 
 <!-- /.examples -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   [`@stdlib/math/base/special/besselj1`][@stdlib/math/base/special/besselj1]: compute the Bessel function of the first kind of order one.
+-   [`@stdlib/math/base/special/bessely0`][@stdlib/math/base/special/bessely0]: compute the Bessel function of the second kind of order zero.
+-   [`@stdlib/math/base/special/bessely1`][@stdlib/math/base/special/bessely1]: compute the Bessel function of the second kind of order one.
+
+</section>
+
+<!-- /.related -->
+
+<!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
+
 
 <section class="main-repo" >
 
@@ -163,6 +181,16 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/math-base-special-besselj0/main/LICENSE
 
 [bessel-first-kind]: https://en.wikipedia.org/wiki/Bessel_function#Bessel_functions_of_the_first_kind:_J.CE.B1
+
+<!-- <related-links> -->
+
+[@stdlib/math/base/special/besselj1]: https://github.com/stdlib-js/math-base-special-besselj1
+
+[@stdlib/math/base/special/bessely0]: https://github.com/stdlib-js/math-base-special-bessely0
+
+[@stdlib/math/base/special/bessely1]: https://github.com/stdlib-js/math-base-special-bessely1
+
+<!-- </related-links> -->
 
 </section>
 
