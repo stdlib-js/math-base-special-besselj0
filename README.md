@@ -55,6 +55,8 @@ Alternatively,
 -   If you are using Deno, visit the [`deno` branch][deno-url].
 -   For use in Observable, or in browser/node environments, use the [Universal Module Definition (UMD)][umd] build available on the [`umd` branch][umd-url].
 
+The [branches.md][branches-url] file summarizes the available branches and displays a diagram illustrating their relationships.
+
 </section>
 
 <section class="usage">
@@ -148,11 +150,6 @@ For more information on the project, filing bug reports and feature requests, an
 
 ---
 
-## License
-
-See [LICENSE][stdlib-license].
-
-
 ## Copyright
 
 Copyright &copy; 2016-2022. The Stdlib [Authors][stdlib-authors].
@@ -194,8 +191,7 @@ Copyright &copy; 2016-2022. The Stdlib [Authors][stdlib-authors].
 [deno-url]: https://github.com/stdlib-js/math-base-special-besselj0/tree/deno
 [umd-url]: https://github.com/stdlib-js/math-base-special-besselj0/tree/umd
 [esm-url]: https://github.com/stdlib-js/math-base-special-besselj0/tree/esm
-
-[stdlib-license]: https://raw.githubusercontent.com/stdlib-js/math-base-special-besselj0/main/LICENSE
+[branches-url]: https://github.com/stdlib-js/math-base-special-besselj0/blob/main/branches.md
 
 [bessel-first-kind]: https://en.wikipedia.org/wiki/Bessel_function#Bessel_functions_of_the_first_kind:_J.CE.B1
 
