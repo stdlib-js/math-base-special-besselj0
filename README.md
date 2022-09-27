@@ -41,30 +41,14 @@ The [Bessel function of the first kind][bessel-first-kind] of order zero is defi
 
 <!-- /.intro -->
 
-<section class="installation">
 
-## Installation
-
-```bash
-npm install @stdlib/math-base-special-besselj0
-```
-
-Alternatively,
-
--   To load the package in a website via a `script` tag without installation and bundlers, use the [ES Module][es-module] available on the [`esm` branch][esm-url].
--   If you are using Deno, visit the [`deno` branch][deno-url].
--   For use in Observable, or in browser/node environments, use the [Universal Module Definition (UMD)][umd] build available on the [`umd` branch][umd-url].
-
-The [branches.md][branches-url] file summarizes the available branches and displays a diagram illustrating their relationships.
-
-</section>
 
 <section class="usage">
 
 ## Usage
 
 ```javascript
-var j0 = require( '@stdlib/math-base-special-besselj0' );
+import j0 from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-besselj0@esm/index.mjs';
 ```
 
 #### j0( x )
@@ -98,9 +82,14 @@ v = j0( NaN );
 
 <!-- eslint no-undef: "error" -->
 
-```javascript
-var randu = require( '@stdlib/random-base-randu' );
-var j0 = require( '@stdlib/math-base-special-besselj0' );
+```html
+<!DOCTYPE html>
+<html lang="en">
+<body>
+<script type="module">
+
+import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
+import j0 from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-besselj0@esm/index.mjs';
 
 var x;
 var i;
@@ -109,6 +98,10 @@ for ( i = 0; i < 100; i++ ) {
     x = randu() * 10.0;
     console.log( 'j0(%d) = %d', x, j0( x ) );
 }
+
+</script>
+</body>
+</html>
 ```
 
 </section>
@@ -140,7 +133,7 @@ for ( i = 0; i < 100; i++ ) {
 
 ## Notice
 
-This package is part of [stdlib][stdlib], a standard library for JavaScript and Node.js, with an emphasis on numerical and scientific computing. The library provides a collection of robust, high performance libraries for mathematics, statistics, streams, utilities, and more.
+This package is part of [stdlib][stdlib], a standard library with an emphasis on numerical and scientific computing. The library provides a collection of robust, high performance libraries for mathematics, statistics, streams, utilities, and more.
 
 For more information on the project, filing bug reports and feature requests, and guidance on how to develop [stdlib][stdlib], see the main project [repository][stdlib].
 
@@ -197,11 +190,11 @@ Copyright &copy; 2016-2022. The Stdlib [Authors][stdlib-authors].
 
 <!-- <related-links> -->
 
-[@stdlib/math/base/special/besselj1]: https://github.com/stdlib-js/math-base-special-besselj1
+[@stdlib/math/base/special/besselj1]: https://github.com/stdlib-js/math-base-special-besselj1/tree/esm
 
-[@stdlib/math/base/special/bessely0]: https://github.com/stdlib-js/math-base-special-bessely0
+[@stdlib/math/base/special/bessely0]: https://github.com/stdlib-js/math-base-special-bessely0/tree/esm
 
-[@stdlib/math/base/special/bessely1]: https://github.com/stdlib-js/math-base-special-bessely1
+[@stdlib/math/base/special/bessely1]: https://github.com/stdlib-js/math-base-special-bessely1/tree/esm
 
 <!-- </related-links> -->
 
