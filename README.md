@@ -63,7 +63,7 @@ J_0 (x) = \frac{1}{2 \pi} \int_{-\pi}^\pi e^{- i x \sin(\tau)} \,d\tau.
 ## Usage
 
 ```javascript
-import j0 from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-besselj0@deno/mod.js';
+import j0 from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-besselj0@v0.2.0-deno/mod.js';
 ```
 
 #### j0( x )
@@ -99,7 +99,7 @@ v = j0( NaN );
 
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
-import j0 from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-besselj0@deno/mod.js';
+import j0 from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-besselj0@v0.2.0-deno/mod.js';
 
 var x;
 var i;
