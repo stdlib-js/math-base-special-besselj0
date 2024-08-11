@@ -2,6 +2,51 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2024-08-11)
+
+<section class="features">
+
+### Features
+
+-   [`779b35c`](https://github.com/stdlib-js/stdlib/commit/779b35ca267629b2dadd9947ad2ba106b8095004) - add C implementation for `math/base/special/besselj0`
+
+</section>
+
+<!-- /.features -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`779b35c`](https://github.com/stdlib-js/stdlib/commit/779b35ca267629b2dadd9947ad2ba106b8095004) - **feat:** add C implementation for `math/base/special/besselj0` _(by Gunj Joshi, Philipp Burckhardt)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 2 people contributed to this release. Thank you to the following contributors:
+
+-   Gunj Joshi
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.2">
 
 ## 0.2.2 (2024-07-28)
