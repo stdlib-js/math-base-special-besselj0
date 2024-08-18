@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-08-17)
+## Unreleased (2024-08-18)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`09853ce`](https://github.com/stdlib-js/stdlib/commit/09853ce60a535feb4a8f45620dc557cddda38fba) - **chore:** update package meta data [(#2807)](https://github.com/stdlib-js/stdlib/pull/2807) _(by stdlib-bot, Athan Reines)_
 -   [`6a3b3d7`](https://github.com/stdlib-js/stdlib/commit/6a3b3d731ca697a62e3d58900e1b6cb06e7667dd) - **chore:** update directories meta data _(by Athan Reines)_
 -   [`779b35c`](https://github.com/stdlib-js/stdlib/commit/779b35ca267629b2dadd9947ad2ba106b8095004) - **feat:** add C implementation for `math/base/special/besselj0` _(by Gunj Joshi, Philipp Burckhardt)_
 
