@@ -32,6 +32,7 @@
 
 <details>
 
+-   [`630ddb7`](https://github.com/stdlib-js/stdlib/commit/630ddb777824b5f6e501fda6dadf4ce41dccb964) - **test:** replace equal with strictEqual _(by Karan Anand)_
 -   [`75cbf89`](https://github.com/stdlib-js/stdlib/commit/75cbf899216dadede64e77994fe058932facc51b) - **chore:** replace manual `for` loop in examples [(#6308)](https://github.com/stdlib-js/stdlib/pull/6308) _(by Harsh, stdlib-bot)_
 -   [`52c0299`](https://github.com/stdlib-js/stdlib/commit/52c02996d6ddb17cd20e7d166c7d0605401a33d7) - **bench:** refactor random number generation [(#5397)](https://github.com/stdlib-js/stdlib/pull/5397) _(by Saurabh Singh)_
 -   [`90e96d0`](https://github.com/stdlib-js/stdlib/commit/90e96d01b7a32ec3b71caf3e5f57528338199a8f) - **chore:** minor clean-up _(by Philipp Burckhardt)_
@@ -52,11 +53,12 @@
 
 ### Contributors
 
-A total of 5 people contributed to this release. Thank you to the following contributors:
+A total of 6 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Gunj Joshi
 -   Harsh
+-   Karan Anand
 -   Philipp Burckhardt
 -   Saurabh Singh
 
