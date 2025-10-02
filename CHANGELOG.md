@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-10-01)
+## Unreleased (2025-10-02)
 
 <section class="features">
 
@@ -20,6 +20,7 @@
 
 ### Reverts
 
+-   [`4a75f6d`](https://github.com/stdlib-js/stdlib/commit/4a75f6df054e6d718e40a37737938996ddd43006) - undo commits adding tests for full code coverage
 -   [`1dd3fdc`](https://github.com/stdlib-js/stdlib/commit/1dd3fdcf42490e1d3c93fa3a21a65aca69454932) - chore: update to modern benchmark Makefile
 
 </section>
@@ -32,6 +33,7 @@
 
 <details>
 
+-   [`4a75f6d`](https://github.com/stdlib-js/stdlib/commit/4a75f6df054e6d718e40a37737938996ddd43006) - **revert:** undo commits adding tests for full code coverage _(by Philipp Burckhardt)_
 -   [`8a605a5`](https://github.com/stdlib-js/stdlib/commit/8a605a5c354e71cf76b10e1c1bd6d1acc45a1257) - **test:** add tests to achieve full coverage in Bessel functions _(by Philipp Burckhardt)_
 -   [`3edf54a`](https://github.com/stdlib-js/stdlib/commit/3edf54aeebc16d3a3b3e5c92ecddb0948aec1930) - **chore:** add structured package data for packages in `math/base/special` [(#8046)](https://github.com/stdlib-js/stdlib/pull/8046) _(by Gunj Joshi, Athan Reines)_
 -   [`7add020`](https://github.com/stdlib-js/stdlib/commit/7add0201c13e56a0381926ccfd4073c84eaf2ed4) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
