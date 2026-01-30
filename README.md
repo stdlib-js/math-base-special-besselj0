@@ -257,7 +257,7 @@ For more information on the project, filing bug reports and feature requests, an
 
 ## Copyright
 
-Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
+Copyright &copy; 2016-2026. The Stdlib [Authors][stdlib-authors].
 
 </section>
 
@@ -270,8 +270,8 @@ Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 [npm-image]: http://img.shields.io/npm/v/@stdlib/math-base-special-besselj0.svg
 [npm-url]: https://npmjs.org/package/@stdlib/math-base-special-besselj0
 
-[test-image]: https://github.com/stdlib-js/math-base-special-besselj0/actions/workflows/test.yml/badge.svg?branch=main
-[test-url]: https://github.com/stdlib-js/math-base-special-besselj0/actions/workflows/test.yml?query=branch:main
+[test-image]: https://github.com/stdlib-js/math-base-special-besselj0/actions/workflows/test.yml/badge.svg?branch=v0.3.0
+[test-url]: https://github.com/stdlib-js/math-base-special-besselj0/actions/workflows/test.yml?query=branch:v0.3.0
 
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/math-base-special-besselj0/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/math-base-special-besselj0?branch=main
@@ -283,8 +283,8 @@ Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 
 -->
 
-[chat-image]: https://img.shields.io/gitter/room/stdlib-js/stdlib.svg
-[chat-url]: https://app.gitter.im/#/room/#stdlib-js_stdlib:gitter.im
+[chat-image]: https://img.shields.io/badge/zulip-join_chat-brightgreen.svg
+[chat-url]: https://stdlib.zulipchat.com
 
 [stdlib]: https://github.com/stdlib-js/stdlib
 
